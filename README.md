@@ -9,13 +9,13 @@
 
 <ol>
 	<li>Download the Function.r file in /R and place in your working directory</li>
-	<li>Read the functions into your R session using `source("/Functions.r")`</li>
-	<li>Make sure you have installed and loaded the required dependencies</li>
-	<li><ul>
-			<li>magick</li>
-			<li>ggplot2</li>
-			<li>gridExtra</li>
-			<li>colorRamps</li>
+	<li>Read the functions into your R session using <code>source("/Functions.r")</code></li>
+	<li>Make sure you have installed and loaded the required dependencies
+	<ul>
+		<li><a href="https://cran.r-project.org/web/packages/magick/index.html">magick</a></li>
+		<li><a href="https://cran.r-project.org/web/packages/ggplot2/index.html">ggplot2</a></li>
+		<li><a href="https://cran.r-project.org/web/packages/gridExtra/index.html">gridExtra</a></li>
+		<li><a href="https://cran.r-project.org/web/packages/colorRamps/index.html">colorRamps</a></li>
 		</ul>
 	</li>
 </ol>
