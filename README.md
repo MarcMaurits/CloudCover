@@ -59,7 +59,12 @@
 	</tr>
 </table>
 
-
+<h2>Examples</h2>
+<p>The below images were created using the Script.r file in /R on the identical included example data</p>
+<p>Font size scaling method</p>
+<img src="/images/ex_font_size.png">
+<p>Surface area scaling method</p>
+<img src="/images/ex_surface_area.png">
 
 </body>
 </html>
