@@ -3,7 +3,7 @@
 <body>
 <h1>CloudCover</h1>
 
-<p>A repository for the R functions used to create the simplified word clouds described in XXX</p>
+<p>A repository for the R functions used to create the simplified word clouds described in Maurits et al 2021</p>
 
 <h2>Setup</h2>
 
