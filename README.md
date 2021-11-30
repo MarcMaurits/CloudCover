@@ -3,7 +3,8 @@
 <body>
 <h1>CloudCover</h1>
 
-<p>A repository for the R functions used to create the simplified word clouds described in Maurits et al 2021</p>
+<p>A repository for the R functions used to create the simplified word clouds described in Maurits et al 2022 (link to manuscript).
+	Included are also the survey used in the study (Supplementary File I) and the sensitivity analysis results (Supplementary File II)</p>
 
 <h2>Setup</h2>
 
